@@ -1,4 +1,5 @@
 # Customer Churn Analysis – Power BI
+![Customer Churn Dashboard](images/image.png)
 
 ## Project Overview
 This project analyzes customer churn behavior for a telecom company using Power BI.  
